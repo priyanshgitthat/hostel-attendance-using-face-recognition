@@ -1,0 +1,5 @@
+.env/
+dataset/
+*.zip 
+.vscode/
+__pycache__/
