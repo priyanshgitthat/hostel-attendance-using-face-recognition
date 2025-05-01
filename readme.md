@@ -27,7 +27,7 @@ A modern desktop GUI application that uses **Face Recognition** to mark attendan
 ---
 
 ## 📂 Folder Structure
-
+```
 FaceRecognitionAttendanceSystem/
 ├── dataset/                          # Captured face images for each student
 │   ├── John_101/
@@ -42,7 +42,7 @@ FaceRecognitionAttendanceSystem/
 ├── dlib-19.22.99-cp310-cp310-win_amd64.whl  # Precompiled dlib binary for Windows
 ├── README.md                         # Project readme file
 
-
+```
 
 
 ---
