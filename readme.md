@@ -29,18 +29,18 @@ A modern desktop GUI application that uses **Face Recognition** to mark attendan
 ## 📂 Folder Structure
 
 FaceRecognitionAttendanceSystem/
-├── dataset/                     # Captured face images for each student
+├── dataset/                          # Captured face images for each student
 │   ├── John_101/
 │   │   ├── 1.jpg
 │   │   ├── 2.jpg
 │   │   └── ...
 │   └── ...
-├── encodings.pkl                # Pickle file storing face encodings
-├── attendance.csv               # Attendance record in CSV format
-├── FRAS-GUI-Version.py                      # Main Python GUI application
-├── requirements.txt             # List of all required Python libraries
+├── encodings.pkl                     # Pickle file storing face encodings
+├── attendance.csv                    # Attendance record in CSV format
+├── FRAS-GUI-Version.py              # Main Python GUI application
+├── requirements.txt                  # List of all required Python libraries
 ├── dlib-19.22.99-cp310-cp310-win_amd64.whl  # Precompiled dlib binary for Windows
-├── README.md                    # Project 
+├── README.md                         # Project readme file
 
 
 
