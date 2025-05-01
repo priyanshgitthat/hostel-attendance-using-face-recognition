@@ -37,7 +37,7 @@ FaceRecognitionAttendanceSystem/
 │   └── ...
 ├── encodings.pkl                # Pickle file storing face encodings
 ├── attendance.csv               # Attendance record in CSV format
-├── FRAS.py                      # Main Python GUI application
+├── FRAS-GUI-Version.py                      # Main Python GUI application
 ├── requirements.txt             # List of all required Python libraries
 ├── dlib-19.22.99-cp310-cp310-win_amd64.whl  # Precompiled dlib binary for Windows
 ├── README.md                    # Project 
@@ -69,7 +69,7 @@ pip install requirement.txt
 pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
 ```
 
-### after successfull installtion of the libraries, run FRAS.py 
+### after successfull installtion of the libraries, run FRAS-GUI-Version.py 
 
 
 ## How to use the app (User Guide)
